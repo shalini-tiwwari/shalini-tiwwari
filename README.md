@@ -3,6 +3,8 @@
 - 🌱 I’m currently learning web development
 - 💞️ I’m looking to collaborate on projects on web development
 - 📫 How to reach me www.linkedin.com/in/shalini-tiwari-555042249
+- <br>
+just learning
 
 <!---
 shalini-tiwwari/shalini-tiwwari is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
